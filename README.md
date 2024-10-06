@@ -1,2 +1,7 @@
-# AgroLink
-Leveraging Earth Observation Data for Informed Agricultural Decision-Making
+# AGROLINK
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.

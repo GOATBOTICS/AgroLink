@@ -1,0 +1,119 @@
+// Export pages
+export '/appagrolink/signin_page/signin/signin_widget.dart' show SigninWidget;
+export '/appagrolink/region_select/filtro/filtro_widget.dart' show FiltroWidget;
+export '/appagrolink/barra_de_menu/articulos_option/articulospage/articulospage_widget.dart'
+    show ArticulospageWidget;
+export '/appagrolink/borradores/idea2/idea2_widget.dart' show Idea2Widget;
+export '/appagrolink/panel_principal/ideapanelprincipal/ideapanelprincipal_widget.dart'
+    show IdeapanelprincipalWidget;
+export '/appagrolink/preview_seleccion/transicion/transicion_widget.dart'
+    show TransicionWidget;
+export '/appagrolink/barra_de_menu/bocetomenu3/bocetomenu3_widget.dart'
+    show Bocetomenu3Widget;
+export '/appagrolink/barra_de_perfil/profileboceto1/profileboceto1_widget.dart'
+    show Profileboceto1Widget;
+export '/appagrolink/barra_de_perfil/contactos_option/contactos2/contactos2_widget.dart'
+    show Contactos2Widget;
+export '/appagrolink/barra_de_perfil/editar_perfil/editar_info/editar_info_widget.dart'
+    show EditarInfoWidget;
+export '/appagrolink/barra_de_perfil/chat_de_mensajeria/messages/messages_widget.dart'
+    show MessagesWidget;
+export '/appagrolink/barra_de_menu/analisis_option/boceto_analisis/boceto_analisis_widget.dart'
+    show BocetoAnalisisWidget;
+export '/appagrolink/barra_de_menu/analisis_option/informe_1/informe1_widget.dart'
+    show Informe1Widget;
+export '/appagrolink/barra_de_menu/analisis_option/informe_2/informe2_widget.dart'
+    show Informe2Widget;
+export '/appagrolink/barra_de_menu/analisis_option/informe_3/informe3_widget.dart'
+    show Informe3Widget;
+export '/appagrolink/barra_de_menu/calendario_option/calendario_1/calendario1_widget.dart'
+    show Calendario1Widget;
+export '/appagrolink/barra_de_menu/inventario_option/inventario_1/inventario1_widget.dart'
+    show Inventario1Widget;
+export '/appagrolink/barra_de_menu/inventario_option/inventario_2/inventario2_widget.dart'
+    show Inventario2Widget;
+export '/appagrolink/barra_de_menu/inventario_option/informe_inventario_1/informe_inventario1_widget.dart'
+    show InformeInventario1Widget;
+export '/appagrolink/barra_de_menu/inventario_option/informe_inventario_2/informe_inventario2_widget.dart'
+    show InformeInventario2Widget;
+export '/appagrolink/barra_de_menu/finanzas_option/finanzas_1/finanzas1_widget.dart'
+    show Finanzas1Widget;
+export '/appagrolink/barra_de_menu/finanzas_option/finanzas_2/finanzas2_widget.dart'
+    show Finanzas2Widget;
+export '/appagrolink/barra_de_menu/finanzas_option/informe_financiero_1/informe_financiero1_widget.dart'
+    show InformeFinanciero1Widget;
+export '/appagrolink/barra_de_menu/finanzas_option/informe_financiero_2/informe_financiero2_widget.dart'
+    show InformeFinanciero2Widget;
+export '/appagrolink/barra_de_menu/logistica_option/logistica_1/logistica1_widget.dart'
+    show Logistica1Widget;
+export '/appagrolink/barra_de_menu/logistica_option/logistica_2/logistica2_widget.dart'
+    show Logistica2Widget;
+export '/appagrolink/barra_de_menu/informes_option/informes_1/informes1_widget.dart'
+    show Informes1Widget;
+export '/appagrolink/barra_de_menu/informes_option/informes_2/informes2_widget.dart'
+    show Informes2Widget;
+export '/appagrolink/barra_de_menu/ajustes_option/ajustes_parametros_2/ajustes_parametros2_widget.dart'
+    show AjustesParametros2Widget;
+export '/appagrolink/barra_de_menu/cultivos_option/cultivos_1/cultivos1_widget.dart'
+    show Cultivos1Widget;
+export '/appagrolink/barra_de_menu/cultivos_option/cultivos_2/cultivos2_widget.dart'
+    show Cultivos2Widget;
+export '/appagrolink/barra_de_menu/riego_option/riego_1/riego1_widget.dart'
+    show Riego1Widget;
+export '/appagrolink/borradores/devices/devices_widget.dart' show DevicesWidget;
+export '/appagrolink/borradores/devices_2/devices2_widget.dart'
+    show Devices2Widget;
+export '/appagrolink/barra_de_menu/devices_option/devices_panel_1/devices_panel1_widget.dart'
+    show DevicesPanel1Widget;
+export '/appagrolink/borradores/introduccion_sistemas/introduccion_sistemas_widget.dart'
+    show IntroduccionSistemasWidget;
+export '/appagrolink/barra_de_menu/devices_option/introduccion_sistemas_3/introduccion_sistemas3_widget.dart'
+    show IntroduccionSistemas3Widget;
+export '/appagrolink/borradores/introduccion_sistemas_3_copy/introduccion_sistemas3_copy_widget.dart'
+    show IntroduccionSistemas3CopyWidget;
+export '/appagrolink/barra_de_menu/devices_option/agro_vision/agro_vision_1/agro_vision1_widget.dart'
+    show AgroVision1Widget;
+export '/appagrolink/barra_de_menu/devices_option/agro_vision/agro_vision_2/agro_vision2_widget.dart'
+    show AgroVision2Widget;
+export '/appagrolink/barra_de_menu/devices_option/agro_vision/agro_vision_33/agro_vision33_widget.dart'
+    show AgroVision33Widget;
+export '/appagrolink/barra_de_menu/devices_option/agro_sensor/agro_sensor_1/agro_sensor1_widget.dart'
+    show AgroSensor1Widget;
+export '/appagrolink/barra_de_menu/devices_option/agro_sensor/agro_sensor_2/agro_sensor2_widget.dart'
+    show AgroSensor2Widget;
+export '/appagrolink/barra_de_menu/devices_option/agro_sensor/agro_sensor_33/agro_sensor33_widget.dart'
+    show AgroSensor33Widget;
+export '/appagrolink/borradores/datos_agro_sensor_1/datos_agro_sensor1_widget.dart'
+    show DatosAgroSensor1Widget;
+export '/appagrolink/barra_de_menu/devices_option/agro_sensor/agro_sensor_datos/datos_agro_sensor_2/datos_agro_sensor2_widget.dart'
+    show DatosAgroSensor2Widget;
+export '/appagrolink/barra_de_menu/devices_option/agro_vision/agro_vision_datos/datos_agro_vision_1/datos_agro_vision1_widget.dart'
+    show DatosAgroVision1Widget;
+export '/appagrolink/barra_de_menu/devices_option/agro_vision/agro_vision_datos/datos_agro_vision_2/datos_agro_vision2_widget.dart'
+    show DatosAgroVision2Widget;
+export '/appagrolink/barra_de_menu/devices_option/agro_vision/agro_vision_datos/datos_agro_vision_3/datos_agro_vision3_widget.dart'
+    show DatosAgroVision3Widget;
+export '/appagrolink/barra_de_menu/devices_option/agro_vision/agro_vision_datos/datos_agro_vision_4/datos_agro_vision4_widget.dart'
+    show DatosAgroVision4Widget;
+export '/appagrolink/barra_de_perfil/historial_option/historial_1/historial1_widget.dart'
+    show Historial1Widget;
+export '/appagrolink/borradores/historial_2/historial2_widget.dart'
+    show Historial2Widget;
+export '/appagrolink/manuales/manual_1/manual1_widget.dart' show Manual1Widget;
+export '/appagrolink/manuales/manual_2/manual2_widget.dart' show Manual2Widget;
+export '/appagrolink/manuales/manual_3/manual3_widget.dart' show Manual3Widget;
+export '/appagrolink/manuales/manual_4/manual4_widget.dart' show Manual4Widget;
+export '/appagrolink/borradores/cosecha_maiz_1/cosecha_maiz1_widget.dart'
+    show CosechaMaiz1Widget;
+export '/appagrolink/borradores/cosecha_maiz_2/cosecha_maiz2_widget.dart'
+    show CosechaMaiz2Widget;
+export '/appagrolink/borradores/cosecha_maiz_3/cosecha_maiz3_widget.dart'
+    show CosechaMaiz3Widget;
+export '/appagrolink/borradores/cosecha_maiz_4/cosecha_maiz4_widget.dart'
+    show CosechaMaiz4Widget;
+export '/appagrolink/panel_principal/cosecha_maiz/cosecha_maiz_5/cosecha_maiz5_widget.dart'
+    show CosechaMaiz5Widget;
+export '/appagrolink/panel_principal/cosecha_maiz/cosecha_maiz_6/cosecha_maiz6_widget.dart'
+    show CosechaMaiz6Widget;
+export '/appagrolink/panel_principal/cosecha_trigo/cosecha_trigo_1/cosecha_trigo1_widget.dart'
+    show CosechaTrigo1Widget;
